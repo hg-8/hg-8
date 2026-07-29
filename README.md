@@ -6,6 +6,7 @@
     <a href="https://hg-8.github.io/"><img src="https://img.shields.io/badge/Portfolio-hg--8.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/hardik-gupta-b767b325a"><img src="https://img.shields.io/badge/LinkedIn-Hardik%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:hg08072005@gmail.com"><img src="https://img.shields.io/badge/Email-hg08072005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://komarev.com/ghpvc/?username=hg-8&color=007ACC&style=for-the-badge" alt="Profile Views"/>
   </p>
 </div>
 
@@ -75,11 +76,10 @@ I am an ECE undergraduate at **PES University, Bengaluru**, specializing in **Na
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hg-8&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg-8&layout=compact&theme=nord"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hg-8&theme=react-dark&hide_border=true" alt="Hardik's GitHub Activity Graph"/>
 </div>
 
 ---
